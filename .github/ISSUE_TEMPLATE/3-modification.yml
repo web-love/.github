@@ -1,7 +1,7 @@
 name: Demande de modification
 description: Demander une modification sur une fonctionnalité existante
 title: "MODIFICATION : "
-labels: ["modification"]
+labels: ["modification", "enhancement"]
 body:
   - type: input
     attributes:
