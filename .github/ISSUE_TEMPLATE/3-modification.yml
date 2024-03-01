@@ -1,5 +1,5 @@
-name: Modification request
-description: Request a modification to an existing feature
+name: Demande de modification
+description: Demander une modification sur une fonctionnalité existante
 title: "MODIFICATION : "
 labels: ["modification"]
 body:
