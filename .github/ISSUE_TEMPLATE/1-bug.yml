@@ -1,5 +1,5 @@
-name: Bug Report
-description: File a bug report
+name: Rapport de bug
+description: Rapporter un nouveau bug ou problème
 title: "BUG : "
 labels: ["bug"]
 body:
