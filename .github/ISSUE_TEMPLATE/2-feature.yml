@@ -1,0 +1,33 @@
+name: Feature request
+description: Add a new feature
+title: ""
+labels: ["feature"]
+body:
+  - type: input
+    attributes:
+      label: Numéro du dossier de la casserolle
+      value: "ixD-"
+  - type: textarea
+    attributes:
+      label: Description du besoin
+      description: |
+        (Vous pouvez y inclure des screenshots. Décrivez du mieux que vous pouvez le besoin.)
+        (Dans la mesure du possible, distinguez le besoin (l'objectif à atteindre) du moyen (les éléments concrets qui sont attendus))
+  - type: textarea
+    attributes:
+      label: Documents ou détails nécessaires
+      description: |
+        (Temps alloué pour le développement de la feature)
+        (Devis vendu au client)
+        (Schema fonctionnel ou autre(s) schéma(s))
+        (Pdf, image, texte à intégrer)
+        (Maquette)
+        (N'oubliez pas qu'un site peut-être bilingue)
+  - type: textarea
+    attributes:
+      label: Scénarios de tests ou d'acception
+      description: (Comment la feature sera-t-elle approuvée? Quels tests seront réalisés?)
+  - type: textarea
+    attributes:
+      label: Autres notes
+      description: (Autres notes jugées importantes à savoir)
