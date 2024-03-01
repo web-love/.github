@@ -1,5 +1,5 @@
-name: Feature request
-description: Add a new feature
+name: Ajouter une nouvelle fonctionnalité
+description: "Demander l'ajout d'une nouvelle fonctionnalité"
 title: "FEATURE : "
 labels: ["feature"]
 body:
